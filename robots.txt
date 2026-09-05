@@ -8,4 +8,4 @@ Disallow: /support/
 Disallow: /create-checkout-session
 Disallow: /webhook
 
-Sitemap: https://your-domain-goes-here.com/sitemap.xml
+Sitemap: https://SecurityAI.fit/sitemap.xml
